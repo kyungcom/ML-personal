@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+/regression/ds_salaries.csv
 # Distribution / packaging
 .Python
 build/
