@@ -18,6 +18,7 @@ kt AIVLE 스쿨에서 배운 machine learning을 복습하기 위해서 진행�
 * GridSearchCV
 
 ### 2-2. Classification
+* 딥러닝을 이용해 결측치를 제거하기 위한 datawig
 * LogisticRegression
 * KNeighborsClassifier
 * DecisionTreeClassifier
@@ -27,7 +28,7 @@ kt AIVLE 스쿨에서 배운 machine learning을 복습하기 위해서 진행�
 
 
 ## 실행결과
-regression: r2_score기준 RandomForest가 가장 성능이 좋았으며
+regression: r2_score기준 RandomForest가 가장 성능이 좋았으며 <br/>
 Classification: accuracy기준 RandomForest + GridSearch 가 가장 성능이 좋았고, 딥러닝과 비교했을때도 성능이 더 높았다.
 
 ## License
